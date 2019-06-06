@@ -1,0 +1,8 @@
+<view class="container">
+  <image class="user-avatar" src="../../images/avatar/1.png"></image>
+  <text class="user-name">hello,狗子</text>
+  <view>
+    <text>六月的雨</text>
+  </view>
+
+</view>
